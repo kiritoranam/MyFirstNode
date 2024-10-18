@@ -1,0 +1,1189 @@
+[
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd47"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd48"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd49"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd4a"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "edit all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd4b"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd4c"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "view",
+        "group": "Audit Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd4d"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "view",
+        "group": "Upload Tasks",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd4e"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd4f"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd50"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "edit",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "656ff34163e1d41baacecd51"
+        },
+        "projectId": "656ff03f3f6380150055f103",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-06T04:06:25.215Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8d5"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8d6"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8d7"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8d8"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8d9"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "edit all",
+        "group": "Task",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8da"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8db"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "view",
+        "group": "Audit Report",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8dc"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "view",
+        "group": "Upload Tasks",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8dd"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8de"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8df"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "edit",
+        "group": "Notification",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c042ff74ea1889e8cf8e0"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "657c023bf74ea1889e8cf79c",
+        "createdOn": {
+            "$date": "2023-12-15T07:45:51.352Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbb4"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbb5"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbb6"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbb7"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbb8"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "edit all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbb9"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbba"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "view",
+        "group": "Audit Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbbb"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "view",
+        "group": "Upload Tasks",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbbc"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "657c41a9f74ea1889e8cfbbd"
+        },
+        "projectId": "655edc07d83db54ce564c68b",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-15T12:08:09.372Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a9108"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a9109"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a910a"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a910b"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a910c"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "edit all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a910d"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a910e"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "view",
+        "group": "Audit Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a910f"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "view",
+        "group": "Upload Tasks",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a9110"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a9111"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a9112"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "edit",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65829a4082abf86aaa1a9113"
+        },
+        "projectId": "658293542d648775d4de82b3",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-20T07:39:44.057Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd81"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd82"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd83"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd84"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd85"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "edit all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd86"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd87"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "view",
+        "group": "Audit Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd88"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "view",
+        "group": "Upload Tasks",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd89"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd8a"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd8b"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "edit",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "6583cfce03a42954561fdd8c"
+        },
+        "projectId": "6583cf5a98f87ceeb62bafd2",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-21T05:40:30.151Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a333"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false,
+        "userId": null
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a334"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a335"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a336"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a337"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "edit all",
+        "group": "Task",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a338"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a339"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "view",
+        "group": "Audit Report",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a33a"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "view",
+        "group": "Upload Tasks",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a33b"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a33c"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a33d"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "edit",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658a53137961b81c5ba9a33e"
+        },
+        "projectId": "658a517cabe5603c660ca433",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2023-12-26T04:14:11.632Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "658bf1c76df15b43fd12d170"
+        },
+        "projectId": "658bd6e7334263e6d8ecb994",
+        "userId": null
+    },
+    {
+        "_id": {
+            "$oid": "6593e01fbbfae4bed46dd12a"
+        },
+        "projectId": "657021044031ba8ad2d7e3a3",
+        "userId": "65434f179f10213028db7923"
+    },
+    {
+        "_id": {
+            "$oid": "6594daa85ee483df225658ae"
+        },
+        "userId": "65434f179f10213028db7923",
+        "projectId": "658bcf9f03de611e91644884"
+    },
+    {
+        "_id": {
+            "$oid": "6594dad35ee483df225658f9"
+        },
+        "userId": "658bb73303de611e916447b8",
+        "projectId": "658d1d542ff1be545ae3dfd9"
+    },
+    {
+        "_id": {
+            "$oid": "6594dbc95ee483df225659e4"
+        },
+        "userId": "657bf4fb7b3fb817943649ba",
+        "projectId": "658d1d542ff1be545ae3dfd9"
+    },
+    {
+        "_id": {
+            "$oid": "65d2238fb3b7176517603290"
+        },
+        "projectId": "658d1d542ff1be545ae3dfd9",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-02-18T15:34:39.047Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65d2238fb3b7176517603291"
+        },
+        "projectId": "658d1d542ff1be545ae3dfd9",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-02-18T15:34:39.047Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65d2238fb3b7176517603292"
+        },
+        "projectId": "658d1d542ff1be545ae3dfd9",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-02-18T15:34:39.047Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65d2238fb3b7176517603293"
+        },
+        "projectId": "658d1d542ff1be545ae3dfd9",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-02-18T15:34:39.047Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65d2238fb3b7176517603294"
+        },
+        "projectId": "658d1d542ff1be545ae3dfd9",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-02-18T15:34:39.047Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e2608"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e2609"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e260a"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e260b"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e260c"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "create",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e260d"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "edit",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65dd8d46831a5541a78e260e"
+        },
+        "projectId": "65d022b38e45ad3b046d0436",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "65434f179f10213028db7923",
+        "createdOn": {
+            "$date": "2024-02-27T07:20:38.085Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce61b"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "edit",
+        "group": "Projects",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce61c"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "delete",
+        "group": "Projects",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce61d"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "clone",
+        "group": "Projects",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce61e"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "view all",
+        "group": "Task",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce61f"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "view",
+        "group": "Task Report",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce620"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "view",
+        "group": "Notification",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    },
+    {
+        "_id": {
+            "$oid": "65e99f2ceb39a924918ce621"
+        },
+        "userId": "653f9a0d1cac95f2dc811cc1",
+        "projectId": "65e022ec0f16b11e5e3aa69c",
+        "entitlementId": "delete",
+        "group": "Notification",
+        "createdBy": "653a51d7e494458e99905f39",
+        "createdOn": {
+            "$date": "2024-03-07T11:04:12.611Z"
+        },
+        "isDeleted": false
+    }
+]

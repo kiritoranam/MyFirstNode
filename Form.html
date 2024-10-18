@@ -1,0 +1,12 @@
+<html>
+    <script>
+        function getData() {
+            fetch('http://127.0.0.1:8081/listUsers').then((resp) => {
+                console.log("resp",resp)
+            })
+        }
+    </script>
+   <body>
+      <button onclick={getData}>Click</button>
+   </body>
+</html>
