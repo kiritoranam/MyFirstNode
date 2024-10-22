@@ -31,9 +31,9 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json());
 // app.use(cron);
 
-cron.schedule('* * * * *', () => {
-    schedularUpdateDetails()
-});
+// cron.schedule('* * * * *', () => {
+//     schedularUpdateDetails()
+// });
 
 // function sendReminderEmails() {
 
@@ -74,7 +74,8 @@ async function readFrom() {
 readFrom()
 
 app.get('/vw', (req, res) => {
-    res.render('index', { title: 'Hey', message: 'Hello there!' })
+    // res.render('index', { title: 'Hey', message: 'Hello there!' })
+    res.send("Hello There")
 })
 
 const upload = multer({ dest: 'uploads/' });

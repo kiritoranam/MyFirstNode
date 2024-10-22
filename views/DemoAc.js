@@ -81,7 +81,7 @@ const schedularUpdateDetails = async (req, res) => {
     try {
         // const data = AccDetails.updateMany({ "lastUpdatedTimeStamp": { "$gte": ISODate("2024-04-17"), "$lte": ISODate("2024-04-20") } }, { $set: { status: 'Approved' } })
         const data = AccDetails.updateMany({ "lastUpdatedTimeStamp": { "$gte": startDate, "$lte": endDate } }, { $set: { status: 'Approved' } })
-        console.log(123, data);
+        // console.log(123, data);
     } catch (error) {
         res.send("Failed")
     }
